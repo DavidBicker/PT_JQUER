@@ -1,0 +1,42 @@
+#wrapper {
+    width: 100%;
+    overflow: hidden;
+}
+#title{
+    color:purple;
+}
+#price{
+    color: green;
+
+}
+
+#options {
+    width: 50%;
+    float: left;
+    border-right: solid 1px black;
+
+}
+#add{
+    height : 50;
+    width: 75;
+    border: 2px red;
+    background-color: orange;
+}
+
+#cart {
+    margin-left: 51%;
+
+}
+
+#empty {
+    display: none;
+    color: red;
+}
+
+#display-cart{
+    height: 50;
+    width: 75;
+    margin-left: 30;
+    color: blue;
+}
+
